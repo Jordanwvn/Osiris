@@ -1,2 +1,2 @@
 # Osiris
-A roleplaying game using websockets
+A post-post-apocalypse roleplaying game using websockets
